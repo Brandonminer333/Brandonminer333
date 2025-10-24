@@ -17,7 +17,7 @@ Below are a few selected projects that highlight my approach to data science and
 | Project | Description | Link |
 |----------|--------------|------|
 | **Credit Card Fraud Prediction** | Machine learning workflow for predictive modeling and evaluation. | [View Repo](https://github.com/Brandonminer333/Credit_Card_Fraud_Project)|
-| **Exploration of Bayesian Regression** | Educational, in-depth explanation of Bayesian regression. | [View Repo]([https://github.com/brandonminer333/project3](https://github.com/Brandonminer333/lin_reg_final_project)) |
+| **Exploration of Bayesian Regression** | Educational, in-depth explanation of Bayesian regression. | [View Repo](https://github.com/Brandonminer333/lin_reg_final_project) |
 | **CA Annual Grape Acreage** | Data cleaning, transformation, and visualization pipeline for complex datasets. | Repo private |
 
 
