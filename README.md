@@ -25,15 +25,7 @@ Below are a few selected projects that highlight my approach to data science and
 
 ## About Me
 
-I’m passionate about leveraging data to solve real-world problems — from developing analytical tools to optimizing workflows.  
-My projects often involve:
-
-- **Data wrangling** and exploratory analysis  
-- **Machine learning** model development and evaluation  
-- **Automation and deployment** of data pipelines  
-- **Data visualization** for insight communication  
-
-I’m always exploring new techniques to make data more actionable and transparent.
+I’m like data science
 
 ---
 
