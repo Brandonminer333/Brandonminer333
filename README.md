@@ -25,7 +25,7 @@ Below are a few selected projects that highlight my approach to data science and
 
 ## About Me
 
-I’m like data science
+I like data science
 
 ---
 
