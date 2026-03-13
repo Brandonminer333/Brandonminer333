@@ -13,6 +13,8 @@ If you’d like to quickly explore my work, visit my portfolio page — it curre
 
 When I'm not working on grad work or work at the ACLU, I've been working on an agentic app to help new [GMs](https://en.wikipedia.org/wiki/Gamemaster) in [D&D (5e)](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) run their games so they can focus on building the story of the game.
 
+Check out the repo [here](https://github.com/Brandonminer333/DND.AI)
+
 ---
 
 ## Featured Projects
