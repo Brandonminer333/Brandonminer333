@@ -1,11 +1,17 @@
-# Brandon Miner
+# Hi, I'm Brandon
 
 Welcome to my GitHub profile!  
-I’m a **data scientist** focused on connecting data to practical, product-driven solutions.  
+I’m a **data scientist** focused on building data systems.  
 
-If you’d like to quickly explore my work, visit my portfolio page — it showcases all my projects in one place:
+If you’d like to quickly explore my work, visit my portfolio page — it currently showcases all my school projects in one place:
 
 **[View My Portfolio](https://brandonminer333.github.io/)**
+
+---
+
+## Current Passion Project
+
+When I'm not working on grad work or work at the ACLU, I've been working on an agentic app to help new [GMs](https://en.wikipedia.org/wiki/Gamemaster) in [D&D (5e)](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) run their games so they can focus on building the story of the game.
 
 ---
 
@@ -25,8 +31,8 @@ Below are a few selected projects that highlight my approach to data science and
 
 ## About Me
 
-I like data science
+I like data science and live in the SF Bay Area
 
 ---
 
-📊 **Portfolio:** [brandonminer333.github.io](https://brandonminer333.github.io/)
+**Portfolio:** [brandonminer333.github.io](https://brandonminer333.github.io/)
