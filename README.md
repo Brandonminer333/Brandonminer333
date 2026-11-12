@@ -6,13 +6,13 @@ Right now I'm at the **ACLU of Northern California**, architecting a bodycam aud
 
 I'm finishing my **M.S. in Data Science and Artificial Intelligence** at the University of San Francisco (expected Jun 2026), with a **B.S. in Statistics** from San Diego State University.
 
-**[Portfolio](https://brandonminer333.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/brandon-miner-3x3)**
+**[Portfolio](https://brandonminer.com/)** · **[LinkedIn](https://www.linkedin.com/in/brandon-miner-3x3)**
 
 ---
 
 ## Featured Projects
 
-Selected work that shows how I think about data and ML — from civic analytics to production inference. More write-ups and school projects are on my [portfolio site](https://brandonminer333.github.io/).
+Selected work that shows how I think about data and ML — from civic analytics to production inference. More write-ups and school projects are on my [portfolio site](https://brandonminer.com/).
 
 ### GenAI Franchise Personality Quiz
 
@@ -37,4 +37,4 @@ I like building systems where the data is messy, the stakes are real, and the en
 
 Based in the **SF Bay Area**. Open to roles in AI engineering, forward deployed ML, data science, and public-interest technology.
 
-**Portfolio:** [brandonminer333.github.io](https://brandonminer-portfolio.vercel.app/)
+**Portfolio:** [brandonminer.com](https://brandonminer.com/)
