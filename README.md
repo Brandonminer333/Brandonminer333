@@ -1,6 +1,6 @@
 # Hi, I'm Brandon
 
-I'm an **AI/ML engineer** and **data scientist** in the San Francisco Bay Area. I build production ML systems — multi-modal pipelines, LLM-assisted labeling, and end-to-end apps that non-technical stakeholders can actually use.
+I'm a **data scientist** and engineer in the San Francisco Bay Area. I build production ML systems — multi-modal pipelines, LLM-assisted labeling, and end-to-end apps that non-technical stakeholders can actually use.
 
 Right now I'm at the **ACLU of Northern California**, architecting a bodycam auditing platform that transcribes police footage, runs NLP classifiers, and surfaces compliance signals for legal review. Before that, I led data science at the **San Diego County Taxpayers Association**, turning messy public records into workforce and homelessness policy analysis.
 
@@ -10,31 +10,9 @@ I'm finishing my **M.S. in Data Science and Artificial Intelligence** at the Uni
 
 ---
 
-## Featured Projects
-
-Selected work that shows how I think about data and ML — from civic analytics to production inference. More write-ups and school projects are on my [portfolio site](https://brandonminer.com/).
-
-### GenAI Franchise Personality Quiz
-
-A live generative quiz engine: describe any fictional class system in natural language — Hogwarts houses, Pokémon types, whatever — and the app scrapes Fandom wikis, has Gemini roleplay each canon character through 15 Likert questions, then matches your answers via cosine similarity. Full stack on **Next.js + FastAPI**, deployed to **Vercel + Google Cloud Run** with CI/CD, durable quiz storage in GCS, and a community quiz library.
-
-**[Try it live](https://sematic-personality-quiz.vercel.app)** · **[Repo](https://github.com/Brandonminer333/sematic-personality-quiz)**
-
----
-
-## What I Work On
-
-- **Production ML & GenAI** — Whisper ASR, LLM auto-labeling, fine-tuned classifiers, RAG-style wiki grounding
-- **Full-stack delivery** — FastAPI, React, Next.js, Streamlit, Docker, Cloud Run, private-server deploy
-- **Civic & public-interest data** — web scraping, entity standardization, mixed-effects modeling, geospatial privacy analysis
-- **MLOps** — CI/CD, challenger/champion frameworks, reproducible pipelines, GPU inference
-
----
-
 ## About Me
 
-I like building systems where the data is messy, the stakes are real, and the end user isn't an engineer. Most of my work sits at the intersection of **machine learning**, **infrastructure**, and **public impact** — whether that's helping attorneys review bodycam footage or turning open government data into something policymakers can act on.
+I like building data systems to organize messy data for users to focus on what they need to do.
 
-Based in the **SF Bay Area**. Open to roles in AI engineering, forward deployed ML, data science, and public-interest technology.
+Based in the **SF Bay Area**. Currently working as a data scientist.
 
-**Portfolio:** [brandonminer.com](https://brandonminer.com/)
