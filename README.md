@@ -6,7 +6,7 @@ Based in **San Francisco Bay Area**.
 
 - [GitHub](https://github.com/Brandonminer333)
 - [Portfolio](https://brandonminer333.github.io)
-
+- [LinkedIn](www.linkedin.com/in/brandon-miner-3x3)
 ---
 
 ## Experience
