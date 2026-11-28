@@ -2,7 +2,7 @@
 
 **Data Scientist** — Building data systems and ML products end-to-end.
 
-Based in **San Francisco Bay Area**.
+Based in **Oakland, CA**.
 
 - [GitHub](https://github.com/Brandonminer333)
 - [Portfolio](https://brandonminer.com)
