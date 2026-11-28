@@ -21,5 +21,5 @@ I'm currently focused on the **Case Management System**. This is a HIPAA-aligned
 - **Expanded Learning Program Attendance Tracker Dashboard**
   - This is a cross-platform attendance data pipeline and Zoho Analytics dashboard that consolidates Expanded Learning program records for Safe Passages.
 
-- **Body-worn Camera Compliance Tracking System**
+- **Body-Worn Camera Traffic Stop Auditor**
   - This is a self-hosted full-stack platform that ingests, stores, retrieves, and processes large batches of body-worn camera video for compliance review.
